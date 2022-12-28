@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Projeto_Final_AVMB.props" />
+</Project>
